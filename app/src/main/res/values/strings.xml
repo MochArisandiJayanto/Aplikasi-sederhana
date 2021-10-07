@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MAjayanto</string>
+    <string name="name_univ">Nama Universitas</string>
+    <string name="content_main">Berikut daftar 100 Perguruan Tinggi terbaik di Indonesia Versi Webometrics</string>
+    <string name="content_rank">Value rank</string>
+    <string name="overview">overview</string>
+    <string name="university_identity">University Identity</string>
+    <string name="university_overview">University Overview</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Acronym \nFounded \nMotto \nColours \nWebsite \nAddress \nTelfon \nFAX</string>
+    <string name="name_me">MOCH. ARISANDI JAYANTO</string>
+    <string name="email_me">diajaya0@gmail.com</string>
+    <string name="rank">Indonesia Rank \nWord Rank </string>
+    <string name="github">Github</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="about_me">My name MOCH. ARISANDI JAYANTO You can call me Jaya\n
+        I am currently a college student who is always motivated to try new things, think critically and creatively.
+        I have good communication skills and have a great interest in the digital world and I also have experience in an organization.
+        I am now focusing on learning application programming on android or multi-platform and also learning website programming.</string>
+</resources>
